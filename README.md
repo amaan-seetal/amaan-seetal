@@ -16,5 +16,8 @@
 <img align="left" alt="Java" width="26px" src="https://i.imgur.com/cqVycsUt.png"  style="padding-right:10px;"/>
 <img align="left" alt="Javascript" width="26px" src="https://i.imgur.com/Eb1pRPct.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/2v8dqMOt.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/JbQI4Ni.png" style="padding-right:10px;" />
 
 [website]: https://www.linkedin.com/in/amaan-seetal/
