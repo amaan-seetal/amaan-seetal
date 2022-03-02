@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Amaan
 
-<!--
-**AmaanullahSeetal/AmaanullahSeetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a software engineering student
+- I am currently working on setting up a shopping website using the MERN tech stack
+- I love learning and working on new innovating technologies
+- 2022 Goals: Code as many much as humanly possible in a single year
+- Fun fact: I am also a mechanical engineer
 
-Here are some ideas to get you started:
+## Connect with me:
+[<img align="left" alt="LinkedIn.com" width="22px" src="https://i.imgur.com/FDQIUtd.jpg" style="padding-right:10px;"/>][website]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
+[<img align="left" alt="Java" width="26px" src="https://i.imgur.com/cqVycsUt.png"  style="padding-right:10px;"/>][webdevplaylist]
+
+[<img align="left" alt="Javascript" width="26px" src="https://i.imgur.com/Eb1pRPct.png" style="padding-right:10px;" />][webdevplaylist]
+
+[<img align="left" alt="Python" width="26px" src="https://i.imgur.com/2v8dqMOt.png" style="padding-right:10px;" />][webdevplaylist]
+
+
+
+[website]: https://www.linkedin.com/in/amaan-seetal/
+[webdevplaylist]: https://www.google.com/
