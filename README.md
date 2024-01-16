@@ -1,7 +1,6 @@
 # Hi there, I'm Amaan
 
-## I am a software engineering student
-- I am currently working on setting up a shopping website using the MERN tech stack
+## I am ajunior software developer/engineer
 - I love learning and working on new innovating technologies
 - 2022 Goals: Code as many much as humanly possible in a single year
 - Fun fact: I am also a mechanical engineer
